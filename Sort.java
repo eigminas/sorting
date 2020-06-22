@@ -227,9 +227,6 @@ public void display(int line, String header)
     }
 }
 
-/**********************/
-/*** Return array ***/
-/**********************/
 public int getUsedSize(){
 	return usedSize;
 }
